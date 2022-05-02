@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>img/catcher.png</file>
+        <file>img/fire.png</file>
+        <file>img/weapon.png</file>
+        <file>Objects/AimCircle.qml</file>
+        <file>Objects/Button.qml</file>
+        <file>Objects/Weapon.qml</file>
+        <file>Pages/FirstPage.qml</file>
+        <file>Pages/MainPage.qml</file>
+        <file>Pages/TweakPage.qml</file>
+        <file>Objects/Catcher.qml</file>
+        <file>Objects/StyleText.qml</file>
+        <file>fonts/comic.ttf</file>
+        <file>fonts/comicbd.ttf</file>
+        <file>fonts/comici.ttf</file>
+        <file>fonts/comicz.ttf</file>
+        <file>sound/Lose.wav</file>
+        <file>sound/Smash.wav</file>
+        <file>sound/Launch.wav</file>
+        <file>sound/Push.wav</file>
+    </qresource>
+</RCC>
